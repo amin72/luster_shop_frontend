@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: yekan;
+  src: url(font/Yekan/Yekan.eot);
+  src: url(font/Yekan/Yekan.eot?#iefix) format("embedded-opentype"), url(font/Yekan/Yekan.woff) format("woff"), url(font/Yekan/Yekan.ttf) format("truetype"), url(font/Yekan/Yekan.svg#BYekan) format("svg");
+  font-weight: normal;
+  font-style: normal
+  }
